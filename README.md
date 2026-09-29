@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Hi — I’m Jason, a Seattle-based engineer and technical founder working across software, AI/ML, simulation, automation, and product development.<br/>
+  I’m Jason, a Seattle-based engineer and technical founder working across software, AI/ML, simulation, automation, and product development.<br/>
   I run <strong><a href="https://orcasmedialab.com">Orcas Media Lab</a></strong>, an independent brand accelerator and innovation studio. On GitHub, that mostly means the <em>lab</em> side of the name: experimental software, simulations, AI research, useful little tools, and ideas built far enough to see whether they actually work.
 </p>
 
@@ -39,15 +39,6 @@ Flappy Bird rebuilt as an evolutionary-learning experiment. Populations of agent
 ### [lineupSim](https://github.com/orcasmedialab/lineupSim)
 A baseball simulation engine for testing batting-order optimization. Runs repeated seasons across lineup permutations to explore how ordering decisions affect expected offensive output.
 
-### [frictionlessFootsteps](https://github.com/orcasmedialab/frictionlessFootsteps)
-Experimental work around AI evaluation, model behavior, and the less-visible failure modes that can appear even when an AI system seems to complete a task successfully.
-
-### [parkingChecker](https://github.com/orcasmedialab/parkingChecker)
-A small Python/Selenium automation built to monitor Crystal Mountain parking availability and alert when a target date becomes available.
-
-### [screenMachine](https://github.com/orcasmedialab/screenMachine)
-One of several small utilities built around automating repetitive workflows and solving annoyingly specific real-world problems.
-
 ---
 
 ## ⚙️ How I Like to Build
@@ -62,7 +53,7 @@ The usual pattern is:
 
 My work spans **Python, JavaScript/TypeScript, C/C++, AI/ML tooling, browser automation, simulation, data systems, and increasingly agent-driven development workflows**.
 
-Orcas also develops and operates commercial products, but this GitHub account intentionally leans toward the engineering, software, research, and experimental side of the studio.
+Orcas also develops and operates commercial products that can be found on our website.
 
 ---
 
@@ -93,7 +84,6 @@ Some projects become software. Some become physical products. Others remain expe
 ## 📫 Contact
 
 - **Email:** [jason@orcasmedialab.com](mailto:jason@orcasmedialab.com)
-- **LinkedIn:** [Jason Hernandez](https://www.linkedin.com/in/jason-hernandez-885b443b/)
 - **Web:** [orcasmedialab.com](https://orcasmedialab.com)
 
 ---
