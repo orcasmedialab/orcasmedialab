@@ -86,15 +86,4 @@ Some projects become software. Some become physical products. Others remain expe
 - **Email:** [jason@orcasmedialab.com](mailto:jason@orcasmedialab.com)
 - **Web:** [orcasmedialab.com](https://orcasmedialab.com)
 
----
-
-<details>
-<summary>📈 GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orcasmedialab&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-</details>
-
 <!-- End README -->
